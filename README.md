@@ -6,6 +6,8 @@ PDA Printer is a flutter project that uses the PDA 3505 SDK to print/scan. The p
 - Print text/images/qr/barcode etc
 - Scan qr/bar code
 
+## Requirement
+- Android version >=6
 
 ## Getting Started
 
